@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace KitchenMyMod
+namespace FileExplorer
 {
     public class FileExplorer
     {

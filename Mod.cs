@@ -4,7 +4,7 @@ using KitchenMods;
 using System.Reflection;
 using UnityEngine;
 
-namespace KitchenMyMod
+namespace FileExplorer
 {
     public class Mod : BaseMod, IModSystem
     {

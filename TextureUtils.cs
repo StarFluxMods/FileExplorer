@@ -1,8 +1,7 @@
 using System.Collections.Generic;
-using Unity.Entities.Conversion;
 using UnityEngine;
 
-namespace KitchenMyMod
+namespace FileExplorer
 {
     public class TextureUtils
     {

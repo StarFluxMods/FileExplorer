@@ -4,7 +4,7 @@ using System.IO;
 using KitchenLib.Utils;
 using UnityEngine;
 
-namespace KitchenMyMod
+namespace FileExplorer
 {
     public enum FileExplorerType
     {
